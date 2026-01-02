@@ -52,4 +52,4 @@ If you want to retrain models, add notebooks to `src/` (e.g., `train_cox.ipynb`,
 
 ---
 
-**Author:** (fill your name) • **Course:** (fill course code) • **Group:** 8
+**Author:** Quach Lan Huong • **Course:** Artificial Intelligence • **Group:** 8
